@@ -39,6 +39,10 @@ header img{
     background: #82ad36;
 }
 
+.card{
+    border: 0;
+}
+
 footer{
     background: -webkit-linear-gradient(0deg, #1c3643 0, #273b47 25%, #1e5372);
 }
